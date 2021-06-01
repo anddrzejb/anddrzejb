@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Aureate-Sunshine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anddrzejb&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anddrzejb&hide=Assembly,Makefile,shell,C&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anddrzejb&theme=merko&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anddrzejb&hide=Assembly,Makefile,shell,C&theme=merko&layout=compact" />
 </a>
