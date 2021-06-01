@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **anddrzejb/anddrzejb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/Aureate-Sunshine">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anddrzejb&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anddrzejb&hide=Assembly,Makefile,shell,C&theme=buefy&layout=compact" />
+</a>
